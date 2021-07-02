@@ -1,1 +1,17 @@
 “*.csv” filter=lfs diff=lfs merge=lfs -text
+use_pickle.py filter=lfs diff=lfs merge=lfs -text
+data_preprocess.ipynb filter=lfs diff=lfs merge=lfs -text
+missing_standardscaler.ipynb filter=lfs diff=lfs merge=lfs -text
+make_pickle.ipynb filter=lfs diff=lfs merge=lfs -text
+bfg-1.14.0.jar filter=lfs diff=lfs merge=lfs -text
+iris_logisticregression.ipynb filter=lfs diff=lfs merge=lfs -text
+files filter=lfs diff=lfs merge=lfs -text
+preprocess_standardscaler.ipynb filter=lfs diff=lfs merge=lfs -text
+use_pickle.ipynb filter=lfs diff=lfs merge=lfs -text
+Untitled1.ipynb filter=lfs diff=lfs merge=lfs -text
+autompg_regression.ipynb filter=lfs diff=lfs merge=lfs -text
+autompg_colN_regression.ipynb filter=lfs diff=lfs merge=lfs -text
+saves filter=lfs diff=lfs merge=lfs -text
+titanic_classfication.ipynb filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
